@@ -20,9 +20,9 @@ Used the following technologies:
 - Node.js
 
 ### Sparkteam
-![The main page](seankwon.github.com/Portfolio/images/sparkteam1.png)
-![The bookmark editor](seankwon.github.com/Portfolio/images/sparkteam2.png)
-![Iframe](seankwon.github.com/Portfolio/images/sparkteam3.png)
+![The main page](raw.github.com/Portfolio/images/sparkteam1.png)
+![The bookmark editor](raw.github.com/Portfolio/images/sparkteam2.png)
+![Iframe](raw.github.com/seankwon/Portfolio/images/sparkteam3.png)
 An application that bookmarks websites. Uses the jquery ui collapsible and
 draggable in order to create easy editing of bookmarks.
 Used the following technologies:
